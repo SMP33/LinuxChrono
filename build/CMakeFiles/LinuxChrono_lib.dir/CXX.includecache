@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/LinuxChrono/LinuxChrono.cpp
+LinuxChrono.h
+/home/ubuntu/LinuxChrono/LinuxChrono.h
+
+/home/ubuntu/LinuxChrono/LinuxChrono.h
+time.h
+-
+ctime
+-
+ratio
+-
+chrono
+-
+unistd.h
+-
+pthread.h
+-
+functional
+-
+

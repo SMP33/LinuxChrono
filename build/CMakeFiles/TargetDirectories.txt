@@ -1,0 +1,8 @@
+/home/ubuntu/LinuxChrono/build/CMakeFiles/install/strip.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/install/local.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/LinuxChrono.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/LinuxChrono_lib.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/LinuxChrono/build/CMakeFiles/install.dir

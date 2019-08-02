@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinuxChrono_lib.a  CMakeFiles/LinuxChrono_lib.dir/LinuxChrono.cpp.o
+/usr/bin/ranlib libLinuxChrono_lib.a
