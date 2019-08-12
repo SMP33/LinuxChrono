@@ -1,3 +1,0 @@
-/usr/local/include/LinuxChrono.h
-/usr/local/lib/cmake/LinuxChrono/LinuxChronoConfig.cmake
-/usr/local/lib/libLinuxChrono_lib.a

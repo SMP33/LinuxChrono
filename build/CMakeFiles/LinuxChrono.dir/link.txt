@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++1y -Wall   CMakeFiles/LinuxChrono.dir/LinuxChrono_test.cpp.o  -o LinuxChrono libLinuxChrono_lib.a 
